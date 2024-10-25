@@ -1,2 +1,3 @@
-### az-bicep
-Azure Bicep repo
+### Azure Bicep
+
+Azure Bicep repo 💪
