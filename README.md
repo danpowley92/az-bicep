@@ -1,2 +1,2 @@
-# az-bicep
+### az-bicep
 Azure Bicep repo
